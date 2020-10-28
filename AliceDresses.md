@@ -17,7 +17,7 @@ Siren by Kiromei
 Permission not yet secured and image not embedded. See Kiromei's DeviantArt:
 [https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046](https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046)
 
-Silkmaiden by Heartsome_NaNa
+Silkmaiden by Heartsome NaNa
 ----------------------------
 
 ![Alice's Silkmaiden dress, with weapon, by Heartsome_NaNa](https://heartsomenanaart.weebly.com/uploads/1/1/9/9/119994482/silkmaidencomp_orig.jpg)
@@ -28,3 +28,19 @@ parchment of Chinese characters, some of which (火) are aflame. Behind her,
 elements of Chinese and Japanese design meet in a conglomeration formed by a
 British view of the Orient, influenced more by what looks good on a mantle
 than what's actually accurate.
+
+Classic by Cazzie Bliss
+-----------------------
+
+![Alice's Classic dress, with weapon, sitting on a marble](images/classic_by_cazziebliss.png)
+
+Alice's best-recognized Wonderland dress is her classic blue. Any time she
+doesn't have a region-specific dress to wear, she'll wear this one, and for
+the denoument, there is no dress more appropriate than this one. It's also
+the dress she wears in the beautiful Vale of Tears, a place filled with toys
+and icons of happiness and fun - including the marble that she's seen riding
+on here. She is again holding her iconic Blade, and despite the bloodstains,
+she is happy here.
+
+Created by [Cazzie Bliss](https://www.instagram.com/cazzie.bliss/) who streams
+on Twitch under [the same name](https://www.twitch.tv/cazzie_bliss).
