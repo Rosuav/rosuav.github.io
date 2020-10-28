@@ -14,8 +14,13 @@ Alice's fashion show, and check out these talented artists!
 Siren by Kiromei
 ----------------
 
-Permission not yet secured and image not embedded. See Kiromei's DeviantArt:
-[https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046](https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046)
+![Alice's Siren dress and two weapons, under the sea](https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046)
+
+While moving around under water, Alice wears a dress inspired by angler fish
+and some other deep-sea creatures. She is seen here, as depicted by [Kiromei](https://www.deviantart.com/kiromei),
+carrying a fully-upgraded Hobby Horse and her signature Vorpal Blade, deep
+beneath the ocean's surface. Her look of determination leaves us in no doubt
+as to the fate of any creature that would dare threaten her world.
 
 Silkmaiden by Heartsome NaNa
 ----------------------------
