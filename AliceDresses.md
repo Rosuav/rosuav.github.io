@@ -24,7 +24,7 @@ Silkmaiden by Heartsome_NaNa
 
 The dress from the Mysterious East part of the world, as created by [Heartsome_NaNa](https://heartsomenanaart.weebly.com/).
 Alice is carrying her iconic Vorpal Blade and is coming at us boldly across a
-parchment of Chinese characters, some of which 火 are aflame. Behind her,
+parchment of Chinese characters, some of which (火) are aflame. Behind her,
 elements of Chinese and Japanese design meet in a conglomeration formed by a
 British view of the Orient, influenced more by what looks good on a mantle
 than what's actually accurate.
