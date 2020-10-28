@@ -14,7 +14,7 @@ Alice's fashion show, and check out these talented artists!
 Siren by Kiromei
 ----------------
 
-![Alice's Siren dress and two weapons, under the sea](https://www.deviantart.com/kiromei/art/C-Siren-Alice-827700046)
+![Alice's Siren dress and two weapons, under the sea](images/siren_by_kiromei.png)
 
 While moving around under water, Alice wears a dress inspired by angler fish
 and some other deep-sea creatures. She is seen here, as depicted by [Kiromei](https://www.deviantart.com/kiromei),
