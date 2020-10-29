@@ -49,3 +49,16 @@ she is happy here.
 
 Created by [Cazzie Bliss](https://www.instagram.com/cazzie.bliss/) who streams
 on Twitch under [the same name](https://www.twitch.tv/cazzie_bliss).
+
+Late but Lucky by BRBeeps
+-------------------------
+
+![A rabbit dress and a rabbit bomb](images/latelucky_by_brbeeps.png)
+
+One of the extra content/DLC dresses, "Late but Lucky" is inspired by Alice's
+rabbit friend. She is throwing her rabbit bomb towards us, confident that the
+world will warp itself to her needs if she just works her luck suitably. This
+dress is elegant and fancy, and one need not be ashamed to be seen in a dress
+of this design, no matter how formal the occasion.
+
+This gorgeous piece is the result of the expertise of [BRBeeps](https://www.brbeeps.com).
