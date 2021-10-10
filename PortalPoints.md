@@ -1,3 +1,5 @@
+# The Portal scale of puzzle elegance
+
 Game (esp puzzle game) elegance: the Portal scale.
 Aristotles and Mashy Spike Plates
 * A game should make it clear whether it's "save frequently in case you don't like what happens", or "fail often, fail
@@ -17,9 +19,6 @@ Aristotles and Mashy Spike Plates
   - "I was just blind" may indicate a visibility or discoverability problem
 * Caveats
   - Not knowing the effect of frobbing a thing is usually inelegant, but subtle changes to drive you forward are fine
-
-First things first.
-* Get rid of the ugly site-name header, also seen on Alice and her Dresses
 
 Mechanics
 * !ari ==> Aristotles $aristotles$
