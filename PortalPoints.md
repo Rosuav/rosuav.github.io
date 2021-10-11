@@ -155,3 +155,12 @@ fault. (Note that occasional "bonus effects" don't conflict with this. If solvin
 puzzle allows you to move forward, you should know HOW it allows you to move forward,
 but if the same action also stops you from moving backward, it's okay for that to be
 more subtle or even completely unannounced.)
+
+## What have games scored?
+
+TODO: Tabulate games with their Aris and Mashies. Relicta will be the first listed.
+Portal I can't actually rate on its own scale, since I don't have a first-timer's view.
+
+Game    | Aristotles | Mashy Spike Plates
+--------|------------|-------------------
+Relicta | coming     | soon
