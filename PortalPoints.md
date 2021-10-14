@@ -158,8 +158,8 @@ more subtle or even completely unannounced.)
 
 ## What have games scored?
 
-TODO: Tabulate games with their Aris and Mashies. Relicta will be the first listed.
-Portal I can't actually rate on its own scale, since I don't have a first-timer's view.
+Games will be tabulated here with their Aris and Mashies as they are completed. I
+can't actually rate Portal on its own scale, since I don't have a first-timer's view.
 
 Game    | Aristotles | Mashy Spike Plates
 --------|------------|-------------------
