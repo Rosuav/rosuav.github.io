@@ -163,4 +163,4 @@ Portal I can't actually rate on its own scale, since I don't have a first-timer'
 
 Game    | Aristotles | Mashy Spike Plates
 --------|------------|-------------------
-Relicta | coming     | soon
+Relicta | 21         | 3.5
