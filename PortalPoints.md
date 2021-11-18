@@ -161,6 +161,8 @@ more subtle or even completely unannounced.)
 Games will be tabulated here with their Aris and Mashies as they are completed. I
 can't actually rate Portal on its own scale, since I don't have a first-timer's view.
 
-Game    | Aristotles | Mashy Spike Plates
---------|------------|-------------------
-Relicta | 21         | 3.5
+Game                | Aristotles | Mashy Spike Plates
+--------------------|------------|-------------------
+Relicta - base game | 21         | 3.5
+Relicta - Ice Queen | +6.5       | +1.5
+Relicta - Aegir Gig | Coming     | soon!
