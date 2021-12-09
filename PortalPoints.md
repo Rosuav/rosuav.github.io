@@ -165,4 +165,4 @@ Game                | Aristotles | Mashy Spike Plates
 --------------------|------------|-------------------
 Relicta - base game | 21         | 3.5
 Relicta - Ice Queen | +6.5       | +1.5
-Relicta - Aegir Gig | Coming     | soon!
+Relicta - Aegir Gig | +3         | +1
