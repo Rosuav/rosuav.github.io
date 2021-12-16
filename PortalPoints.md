@@ -166,3 +166,4 @@ Game                | Aristotles | Mashy Spike Plates
 Relicta - base game | 21         | 3.5
 Relicta - Ice Queen | +6.5       | +1.5
 Relicta - Aegir Gig | +3         | +1
+Talos Principle     | Coming...  | ... soon!
