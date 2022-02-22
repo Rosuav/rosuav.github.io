@@ -11,14 +11,14 @@ particular order to these and they do not in any way denote a ranking or
 prioritization among the dresses, the artists, or anything of the sort. Enjoy
 Alice's fashion show, and check out these talented artists!
 
-Classic by MaayaInsane (mugshot)
+Classic by Maaya (mugshot)
 --------------------------------
 
 ![A mugshot of Alice, in her Classic dress](images/classic_by_maayainsane.jpg)
 
 A simple black-and-white sketch, but nonetheless excellently capturing Alice's
 features and character, this mugshot features on an asylum membership card
-(although not one from Rutledge's). It was drawn by [MaayaInsane](https://twitch.tv/maayainsane)
+(although not one from Rutledge's). It was drawn by [Maaya](https://twitch.tv/maaya)
 and has a few iconic elements in the background, with Alice naturally bearing
 her special Blade.
 
