@@ -36,9 +36,9 @@ as to the fate of any creature that would dare threaten her world.
 Silkmaiden by Heartsome NaNa
 ----------------------------
 
-![Alice's Silkmaiden dress, with weapon, by Heartsome_NaNa](https://heartsomenanaart.weebly.com/uploads/1/1/9/9/119994482/silkmaidencomp_orig.jpg)
+![Alice's Silkmaiden dress, with weapon, by Heartsome_NaNa](images/silkmaiden_by_heartsomenana.jpg)
 
-The dress from the Mysterious East part of the world, as created by [Heartsome_NaNa](https://heartsomenanaart.weebly.com/).
+The dress from the Mysterious East part of the world, as created by Heartsome_NaNa.
 Alice is carrying her iconic Vorpal Blade and is coming at us boldly across a
 parchment of Chinese characters, some of which (火) are aflame. Behind her,
 elements of Chinese and Japanese design meet in a conglomeration formed by a
