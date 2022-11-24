@@ -167,3 +167,4 @@ Relicta - base game | 21         | 3.5
 Relicta - Ice Queen | +6.5       | +1.5
 Relicta - Aegir Gig | +3         | +1
 Talos Principle     | 11.5       | 2
+HueBots             | 3          | 0 (short game)
