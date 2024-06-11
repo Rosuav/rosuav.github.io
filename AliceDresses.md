@@ -73,3 +73,15 @@ dress is elegant and fancy, and one need not be ashamed to be seen in a dress
 of this design, no matter how formal the occasion.
 
 This gorgeous piece is the result of the expertise of [BRBeeps](https://www.brbeeps.com).
+
+Caterpillar by Jessica Mai
+--------------------------
+
+![In the Fungiferous Forest, wearing a dress that looks like the Caterpillar](images/caterpillar_by_jessicamaiartist.png)
+
+Another DLC dress, "Caterpillar" is inspired, unsurprisingly, by the Caterpillar.
+She can be seen here walking out from between some mushrooms as found in the
+Fungiferous Forest, where the Caterpillar had been found. The sheer joy on her
+face shows that Alice is truly at home here.
+
+A beautifully cute Alice by the wonderfully skilled [Jessica Mai](https://jessicamaiartist.com).
