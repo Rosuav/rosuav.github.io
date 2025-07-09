@@ -2,9 +2,9 @@
 >
 > This is a paragraph with a class.
 > {:.demo}
-{:.quote}
+{:tag=section}
 
 <style>
 .demo {background: aliceblue;}
-.quote {border: 3px solid rebeccapurple;}
+section {border: 3px solid rebeccapurple;}
 </style>
