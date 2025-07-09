@@ -1,8 +1,10 @@
-This is a paragraph.
-
-This is a paragraph with a class.
-{:.demo}
+> This is a paragraph in a blockquote.
+>
+> This is a paragraph with a class.
+> {:.demo}
+{:.quote}
 
 <style>
-.demo {background: blue;}
+.demo {background: aliceblue;}
+.quote {border: 3px solid rebeccapurple;}
 </style>
