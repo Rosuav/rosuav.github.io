@@ -2,7 +2,7 @@
 >
 > This is a paragraph with a class.
 > {:.demo}
-{:tag=section}
+{:tag="section"}
 
 <style>
 .demo {background: aliceblue;}
