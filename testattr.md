@@ -10,5 +10,9 @@
 <style>
 .demo {background: aliceblue;}
 section {border: 3px solid rebeccapurple;}
-.snickersnack {border: 5px ridge silver;}
+.snickersnack {
+	vertical-align: top;
+	border: 5px ridge silver;
+	padding: 5px;
+}
 </style>
