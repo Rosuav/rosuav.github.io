@@ -96,4 +96,5 @@ and young children to protect. Traumatized insane children, but they know that t
 are safe with Alice. Hiding behind her as she wields the Vorpal Blade in protection
 of the Dollhouse, three insane children - and a small easter EGG from the artist.
 
-The world is a safer place, and this art is the creation of [Atomic Kawaii](https://twitch.tv/atomickawaii).
+The world is a safer place, and this art is the creation of [Atomic Kawaii](https://www.instagram.com/atomickawaii/?hl=en)
+who streams under [the same name](https://twitch.tv/atomickawaii).
