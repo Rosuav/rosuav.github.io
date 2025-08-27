@@ -85,3 +85,15 @@ Fungiferous Forest, where the Caterpillar had been found. The sheer joy on her
 face shows that Alice is truly at home here.
 
 A beautifully cute Alice by the wonderfully skilled [Jessica Mai](https://jessicamaiartist.com).
+
+Misstitched by AtomicKawaii
+---------------------------
+
+![Protectively guarding some Insane Children, wearing a dress put together from different pieces of cloth](images/misstitched_by_atomickawaii.png)
+
+Not all of Alice's life is sunshine and rainbows. There are scary things around,
+and young children to protect. Traumatized insane children, but they know that they
+are safe with Alice. Hiding behind her as she wields the Vorpal Blade in protection
+of the Dollhouse, three insane children - and a small easter EGG from the artist.
+
+The world is a safer place, and this art is the creation of [Atomic Kawaii](https://twitch.tv/atomickawaii).
