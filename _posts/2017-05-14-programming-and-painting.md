@@ -11,12 +11,12 @@ In code, a sketch might consist of nothing more than a few stub functions, or no
 
 It's certainly possible to build something without first sketching, but experienced artists will tell you how beneficial it can be. And in code, it's the same: start with a throw-away junky version and you can save yourself hours of work. Commit the early work as a stub or sketch, then progressively build out from there, commit by commit, until you have a broadly-working program.
 
-One of the best ways to connect with painters is via the internet. Next time you have a few spare moments, check out [Twitch's creative section](https://www.twitch.tv/directory/game/Creative) and maybe visit a few of these amazing people:
+One of the best ways to connect with painters is via the internet. Next time you have a few spare moments, check out Twitch's creative sections and maybe visit a few of these amazing people:
 
-* [Bob Ross](https://www.twitch.tv/bobross) - a TV personality from decades of yore, now immortalized as a sort of figurehead of Twitch Creative; works with oil paints
-* [Devi Cat](https://www.twitch.tv/devi_cat) - digital artist (PhotoShop) who so exemplifies the technique of sketching that she inspired this post
-* [Lara](https://www.twitch.tv/lara_cr) - another digital artist who specializes in photorealistic portraits
-* [Grace](https://www.twitch.tv/graceandfirefly) - jeweler and traditional artist
-* [Amanda](https://www.twitch.tv/adufresne99) - because dragons are awesome!
+* [Bob Ross](https://twitch.tv/bobross) - a TV personality from decades of yore, now immortalized as a sort of figurehead of Twitch Creative; works with oil paints
+* [DeviCat](https://twitch.tv/devicat) - digital artist (PhotoShop) who so exemplifies the technique of sketching that she inspired this post
+* [Lara](https://twitch.tv/lara_cr) - another digital artist who specializes in photorealistic portraits (no longer active)
+* [Grace](https://twitch.tv/graceandfirefly) - jeweler and traditional artist (no longer active)
+* [Amanda](https://twitch.tv/adufresne99) - because dragons are awesome!
 
-Not only can you learn a lot from them, they're just fun people to hang out with! All of them interact with their communities (well, apart from the late Bob Ross) and are pleasant places to spend time. Or you can go to [my own stream](https://www.twitch.tv/rosuav) to find other recommendations for fun people. See you on Twitch!
+Not only can you learn a lot from them, they're just fun people to hang out with! All of them interact with their communities (well, apart from the late Bob Ross) and are pleasant places to spend time. Or you can go to [my own stream](https://twitch.tv/rosuav) to find other recommendations for fun people. See you on Twitch!
