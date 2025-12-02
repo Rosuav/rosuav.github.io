@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Make America Sensible Again
+image:
+  path: /images/makeamericasensible.png
+  alt: "Make America Sensible Again Page Header and Intro"
 ---
 
 It's pretty obvious to most of the world at this point that the US has lost its marbles.
