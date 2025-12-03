@@ -1,3 +1,9 @@
+---
+title: Alice and her Dresses
+image:
+  path: /images/misstitched_by_atomickawaii.png
+  alt: "Alice by Atomickawaii"
+---
 Alice and her Dresses
 =====================
 
