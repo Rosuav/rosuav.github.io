@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming and Painting
+image: /images/classic_by_maayainsane.jpg
 ---
 
 For my day job, I teach Python and JavaScript programming to adult students. In my off times, I love to hang out with some awesomely creative and fun people. And there's a lot that one group can learn from the other. Programs may look a bit more algorithmic and mathematical than oil paintings, but the similarities are actually a lot stronger than you might realize. Coding is art as much as it is science.

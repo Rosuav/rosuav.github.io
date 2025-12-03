@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Make America Sensible Again
+image: /images/classic_by_maayainsane.jpg
 ---
 
 It's pretty obvious to most of the world at this point that the US has lost its marbles.

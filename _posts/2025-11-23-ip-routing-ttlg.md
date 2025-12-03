@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IP routing through the looking-glass
+image: /images/classic_by_maayainsane.jpg
 ---
 
 TL;DR: `traceroute jabberwocky.rosuav.com`

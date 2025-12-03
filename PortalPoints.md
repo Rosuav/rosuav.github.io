@@ -1,3 +1,8 @@
+---
+layout: default
+title: Portal Points
+image: /images/classic_by_maayainsane.jpg
+---
 # The Portal scale of puzzle elegance
 
 In puzzle platformer games, [Portal](https://store.steampowered.com/app/400/Portal/)

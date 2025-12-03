@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why the move to GitHub Pages?
+image: /images/classic_by_maayainsane.jpg
 ---
 
 Obviously, with any move, like this, the obvious question is: What was wrong with the old platform?
