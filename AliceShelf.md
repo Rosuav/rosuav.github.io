@@ -1,3 +1,9 @@
+---
+title: The Alice Shelf
+image:
+  path: /images/AliceShelf3.jpg
+  alt: "The Alice Shelf"
+---
 The Alice Shelf
 ===============
 
