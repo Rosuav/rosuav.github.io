@@ -55,7 +55,8 @@ traceroute to jabberwocky.rosuav.com (2403:5803:bf48:1::1), 30 hops max, 80 byte
 26  twas.brillig.and.the.slithy.toves (2403:5803:bf48:1::119)  8.419 ms  9.001 ms  9.623 ms
 27  did.gyre.and.gimble.in.the.wabe (2403:5803:bf48:1::11a)  11.056 ms  11.037 ms  11.018 ms
 28  all.mimsy.were.the.borogoves (2403:5803:bf48:1::11b)  11.000 ms  11.352 ms  11.684 ms
-29  jabberwocky.rosuav.com (2403:5803:bf48:1::1)  12.391 ms  1.159 ms  2.469 ms
+29  and.the.mome.raths.outgrabe (2403:5803:bf48:1::11c)  11.010 ms  11.021 ms  11.802 ms
+30  jabberwocky.rosuav.com (2403:5803:bf48:1::1)  12.391 ms  1.159 ms  2.469 ms
 
 ```
 
