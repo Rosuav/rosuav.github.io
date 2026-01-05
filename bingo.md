@@ -6,9 +6,9 @@ image: /images/classic_by_maayainsane.jpg
 
 Ever had the realization that the world just doesn't fit your expectations?
 Yeah, same, very same. In fact, in 2025, there were quite a few times when I
-remarked "THAT wasn't on my bingo card for this year". So as we move into
+remarked "Well, **that** wasn't on my bingo card for this year". So as we move into
 the new year, I'm building up a bingo card of all the things I expect to see,
-and on the 'back' of the card, I'll be writing all the things that WEREN'T on
+and on the 'back' of the card, I'll be writing all the things that *weren't* on
 it, but which actually happened.
 
 So without further ado, here is my bingo card for the year 2026.
@@ -32,7 +32,7 @@ are sadly quite likely.
 1. Twitch will release a new vertical stripe of five [Hype Train](https://mustardmine.com/checklist) emotes.
 2. There will be a significant internet outage, and it will be blamed on DNS.
 3. The US discusses abandoning Daylight Saving Time, but doesn't.
-4. The 1.2 release of Satisfactory brings something not a single analyst predicted.
+4. The 1.2 release of Satisfactory brings a feature not a single analyst predicted.
 5. A new distribution of Linux is announced, with much fanfare. Most people stick with the famous ones though.
 16. We'll see AI slop appear in a place we didn't expect it. And it will be just as bad.
 17. DDR5 prices will drop to more reasonable levels as production catches up with demand.
