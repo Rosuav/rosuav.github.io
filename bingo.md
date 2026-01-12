@@ -61,6 +61,7 @@ are sadly quite likely.
 Well, THAT wasn't on my bingo card for this year!
 
 * Warfare between drones and horses. Jan 4th.
+* Gravity and entropy fighting over the best hot beverages. Jan 13th.
 * What more to come? Entries will be added here as they occur.
 
 <style>
