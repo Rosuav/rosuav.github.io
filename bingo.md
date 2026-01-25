@@ -21,7 +21,7 @@ are sadly quite likely.
 
    B  |   I   |   N   |   G   |   O
 ------|-------|-------|-------|-------
-1. Hype Emotes | 16. AI slop | 31. HL3 | 46. APNG emotes | 61. Chrome 0-day
+1. Hype Emotes | ~~16. AI slop~~ | 31. HL3 | 46. APNG emotes | 61. Chrome 0-day
 2. DNS outage | 17. Cheaper RAM | 32. Vibe game | 47. Twitch quotes | 62. Starship orbit
 3. Retain DST | 18. Satellite collision | FREE | 48. Alice movie | 63. Top indie game
 4. Satisfactory | 19. Gilmour Space | 34. Spiffing LLM | 49. Moon fall-over | 64. 3D printed food
@@ -34,7 +34,7 @@ are sadly quite likely.
 3. The US discusses abandoning Daylight Saving Time, but doesn't.
 4. The 1.2 release of Satisfactory brings a feature not a single analyst predicted.
 5. A new distribution of Linux is announced, with much fanfare. Most people stick with the famous ones though.
-16. We'll see AI slop appear in a place we didn't expect it. And it will be just as bad.
+16. ~~We'll see AI slop appear in a place we didn't expect it. And it will be just as bad.~~ Jan 26th, AI features added to Twitch mascot service Pando
 17. DDR5 prices will drop to more reasonable levels as production catches up with demand.
 18. Two fully-active satellites in orbit will collide.
 19. Gilmour Space has a successful launch from Queensland.
