@@ -21,7 +21,7 @@ are sadly quite likely.
 
    B  |   I   |   N   |   G   |   O
 ------|-------|-------|-------|-------
-1. Hype Emotes | ~~16. AI slop~~ | 31. HL3 | 46. APNG emotes | 61. Chrome 0-day
+1. ~~Hype Emotes~~ | ~~16. AI slop~~ | 31. HL3 | 46. APNG emotes | 61. Chrome 0-day
 2. DNS outage | 17. Cheaper RAM | 32. Vibe game | 47. Twitch quotes | 62. Starship orbit
 3. Retain DST | 18. Satellite collision | FREE | 48. Alice movie | 63. Top indie game
 4. Satisfactory | 19. Gilmour Space | 34. Spiffing LLM | 49. Moon fall-over | 64. 3D printed food
