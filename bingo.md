@@ -29,7 +29,7 @@ are sadly quite likely.
 
 ### Details
 
-1. Twitch will release a new vertical stripe of five [Hype Train](https://mustardmine.com/checklist) emotes.
+1. ~~Twitch will release a new vertical stripe of five [Hype Train](https://mustardmine.com/checklist) emotes.~~ May 12th, a new column was released, exactly as predicted. Yay!
 2. There will be a significant internet outage, and it will be blamed on DNS.
 3. The US discusses abandoning Daylight Saving Time, but doesn't.
 4. The 1.2 release of Satisfactory brings a feature not a single analyst predicted.
