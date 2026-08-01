@@ -108,7 +108,7 @@ who streams under [the same name](https://twitch.tv/atomickawaii).
 Chaos by DeviCat
 ----------------
 
-![Posing in her latest outfit, a purple dress of chaos](images/chaos_by_devicat.webp)
+![Posing in her latest outfit, a purple dress of chaos](images/chaos_by_devicat.png)
 
 Following the events of Alice: Madness Returns, Alice looks inward and ... well,
 we won't ever get the game, but we do at least have all the concept art. The chaos
