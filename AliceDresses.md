@@ -104,3 +104,15 @@ of the Dollhouse, three insane children - and a small easter EGG from the artist
 
 The world is a safer place, and this art is the creation of [Atomic Kawaii](https://www.instagram.com/atomickawaii/?hl=en)
 who streams under [the same name](https://twitch.tv/atomickawaii).
+
+Chaos by DeviCat
+----------------
+
+![Posing in her latest outfit, a purple dress of chaos](images/chaos_by_devicat.webp)
+
+Following the events of Alice: Madness Returns, Alice looks inward and ... well,
+we won't ever get the game, but we do at least have all the concept art. The chaos
+and turmoil do not affect Alice's skill at finding the right dress for any occasion,
+so for this day she has chosen a gorgeous purple and white dress with gold trim.
+
+Depicted in adorable chibi form by [DeviCat](https://devicat.art).
