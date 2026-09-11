@@ -4,11 +4,24 @@
 <head>
   <title>{% if page.title %}{{ page.title }} – {% endif %}Rosuav's Ramblings</title>
   <link rel="stylesheet" href="/style.css">
+  <script type=module>
+  import {on} from "https://rosuav.github.io/choc/factory.js";
+  on("submit", "form", e => {
+	e.preventDefault();
+	const msg = { };
+	for (let el of e.match.elements) {
+		if (el.name) msg[el.name] = el.type === "checkbox" ? el.checked : el.value;
+	}
+	console.log("Submitting form!", msg);
+  });
+  </script>
 </head>
 
 <body>
   <!-- TODO: Add some nice framing and stuff -->
+  <form>
   {{ content }}
+  </form>
 </body>
 
 </html>

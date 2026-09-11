@@ -16,5 +16,3 @@ section {border: 3px solid rebeccapurple;}
 	padding: 5px;
 }
 </style>
-
-{% form hello %}
