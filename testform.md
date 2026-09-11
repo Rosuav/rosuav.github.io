@@ -1,5 +1,6 @@
 ---
 layout: main
+form: test-form-action
 ---
 
 * {% form Name %}
