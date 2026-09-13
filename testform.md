@@ -3,8 +3,9 @@ layout: main
 form: test-form-action
 ---
 
-* {% form Name %}
-* {% form role: Your role %}
-* {% form robot?: I am not a robot %}
+* [[Name]]
+* [[Your *role*]]
+* [[I am not a *robot* (?)]]
+* [[Where are you from (location)]]
 
-{% form submit: Submit! %}
+[[Apply! (submit)]]
