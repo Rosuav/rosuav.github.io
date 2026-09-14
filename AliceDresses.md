@@ -2,7 +2,7 @@
 title: Alice and her Dresses
 image:
   path: /images/dresses_combined.png
-  alt: "Alice by Atomickawaii"
+  alt: "Alice's dresses"
 ---
 Alice and her Dresses
 =====================
