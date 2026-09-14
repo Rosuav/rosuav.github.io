@@ -1,7 +1,7 @@
 ---
 title: Alice and her Dresses
 image:
-  path: /images/misstitched_by_atomickawaii.png
+  path: /images/dresses_combined.png
   alt: "Alice by Atomickawaii"
 ---
 Alice and her Dresses
